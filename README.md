@@ -2,6 +2,7 @@
 
 # How to run the project
 1. Clone the repository 
+
 git clone https://github.com/htech10/himanshu-qloyalcodetest-pom.git
 
 2. you will have downloaded a folder "himanshu-qloyalcodetest-pom" after above command and this is your maven project
