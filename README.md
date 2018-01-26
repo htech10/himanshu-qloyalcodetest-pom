@@ -28,7 +28,7 @@ git clone https://github.com/htech10/himanshu-qloyalcodetest-pom.git
    Go to Help > Eclipse MarketPlace > Search for TestNG and Install it 
 
 
-### Note: This is not a framework, it just showcases a general way of code organisation using page object model.Code will have to be refactored many times to make DRY styled code and logging reporting and BDD integration, tagging is still to be done. 
+### Note: This is not a framework, it just showcases a general way of code organisation using page object model.Code will have to be refactored to make DRY styled code including logging, reporting and BDD integration, test case tagging (smoke, integration, regression)
 
 # To run the cross browser testing using docker Grid, setup the grid as follows :
 (Note: Following Instructions are only verified on docker toolbox for Windows but apart of installation, commands to setup grid would be same)
